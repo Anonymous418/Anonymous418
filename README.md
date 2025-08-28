@@ -18,10 +18,12 @@
 <!-- CERTIFICAZIONI -->
 <h2 align="center">🎖 Certifications</h2>
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2d-82ba-24f9a3f3bb88/Cisco_CyberOpsAssoc.png" alt="Cisco CyberOps" width="120"/>
-  <img src="https://images.credly.com/size/340x340/images/0e4c94cd-0030-4e7b-8d46-0d3f3f3dd07d/Cisco_CCNA.png" alt="Cisco CCNA" width="120"/>
-  <img src="https://images.credly.com/size/340x340/images/70f3b9f8-56b4-4f3c-a6cf-ec3a7f0e7b7d/Cisco_NetworkSecurity.png" alt="Cisco Network Security" width="120"/>
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday" alt="CEH"/>
+  <a href="https://www.credly.com/badges/1c6bd274-95a2-4297-8d7e-feb31cd9c1bb/public_url" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url" target="_blank">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="100" style="margin-right: 20px;" />
+  </a>
 </p>
 
 ---
