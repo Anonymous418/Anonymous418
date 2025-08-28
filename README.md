@@ -16,7 +16,9 @@
 ---
 
 <!-- CERTIFICAZIONI -->
-<h2 align="center">🎖 Certifications</h2>
+<h2 align="center">🎖 Certifications & Badges</h2>
+
+<!-- BADGE CREDLY -->
 <p align="center">
   <a href="https://www.credly.com/badges/1c6bd274-95a2-4297-8d7e-feb31cd9c1bb/public_url" target="_blank">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="100" style="margin-right: 20px;" />
@@ -24,6 +26,13 @@
   <a href="https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url" target="_blank">
     <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="100" style="margin-right: 20px;" />
   </a>
+</p>
+
+<!-- BADGE SHIELDS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackaday" alt="CEH"/>
+  <img src="https://img.shields.io/badge/CISSP-Certified%20Information%20Systems%20Security%20Professional-blue?style=for-the-badge&logo=security" alt="CISSP"/>
+  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-black?style=for-the-badge&logo=kalilinux" alt="OSCP"/>
 </p>
 
 ---
