@@ -1,4 +1,3 @@
----
 
 ## Who am I 🕵️‍♂️
 I am **Anonymous418**, a gray-hat ethical hacker.  
@@ -12,7 +11,6 @@ Knowledge of the shadows allows me to protect the light.
 - Tools: Kali Linux, NetHunter, Metasploit, Nmap, Hydra  
 - Cisco Certified 🛡️  
 
----
 
 ## Certifications 🎓
 
