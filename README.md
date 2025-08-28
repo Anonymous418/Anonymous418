@@ -1,19 +1,5 @@
 ---
 
-## Certification 🎓
-
-<a href="https://www.credly.com/badges/1c6bd274-95a2-4297-8d7e-feb31cd9c1bb/public_url" target="_blank">
-  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="70" style="margin-right: 10px;" />
-</a>
-
-<a href="https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url" target="_blank">
-  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="70" style="margin-right: 10px;" />
-</a>
-
-<!-- Duplicate these lines to add more badges in a row -->
-
----
-
 ## Who am I 🕵️‍♂️
 I am **Anonymous418**, a gray-hat ethical hacker.  
 I navigate the **black, white, and gray spectrum**, exposing vulnerabilities and reinforcing defenses.  
@@ -28,6 +14,19 @@ Knowledge of the shadows allows me to protect the light.
 
 ---
 
+## Certifications 🎓
+
+<p align="center">
+  <a href="https://www.credly.com/badges/1c6bd274-95a2-4297-8d7e-feb31cd9c1bb/public_url" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="70" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url" target="_blank">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="70" style="margin-right: 10px;" />
+  </a>
+</p>
+
+---
+
 ## Skills & Tools ⚡
 - **Operating Systems:** Kali Linux, NetHunter, Debian-based distros, Windows  
 - **Security & Exploitation:** Wireshark, Aircrack-ng, Hydra, Burp Suite, SQLmap  
@@ -37,10 +36,12 @@ Knowledge of the shadows allows me to protect the light.
 ---
 
 ## Social
-<a href="https://instagram.com/your-username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="18" style="vertical-align:middle; margin-right:5px;" />  
-  @your-username
-</a>
+<p align="left">
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="18" style="vertical-align:middle; margin-right:5px;" />  
+    @your-username
+  </a>
+</p>
 
 ---
 
